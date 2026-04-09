@@ -27,31 +27,6 @@
 | <img src="screen_shots/Profile_screen.png" width="180"/> | <img src="screen_shots/edit_profile_screen.png" width="180"/> | <img src="screen_shots/my_orders_screen.png" width="180"/> | <img src="screen_shots/order_details_screen.png" width="180"/> |
 
 ---
-
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK (v3.x suggested)
-- Android Studio / VS Code
-- Stable Internet Connection for API calls
-
-### Installation
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/[your-username]/bookia.git
-   ```
-2. **Install dependencies:**
-   ```bash
-   flutter pub get
-   ```
-3. **Run the app:**
-   ```bash
-   flutter run
-   ```
-
----
-
 ## 👨‍💻 Developed By
 
 **Esraa Alaa**  
